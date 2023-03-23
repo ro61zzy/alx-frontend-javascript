@@ -1,1 +1,1 @@
- ES6 basics
+start ES6 javascript basics
